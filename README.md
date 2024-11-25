@@ -1,2 +1,2 @@
-# THIS IS BEGINNER'S PROFILE :)  
-I was an engineer, now i wanna be an a programmer. Let's start!
+# Приветстую! Меня зовут Алексей.
+На данный момент изучаю Python и Machine Learning.
