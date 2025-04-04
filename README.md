@@ -13,3 +13,5 @@
 1.  Дообучение модели VisualTransformer классификации спутниковых снимков:
     https://github.com/toraevai/visual_transformer_for_space_image_recognition  
     **Стек**: Python, pandas, torch, numpy, torchvision  
+
+tg: @toraevai
