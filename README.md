@@ -12,6 +12,9 @@
     **Стек**: Python, pandas, phoenix, torch, llama-index, peft  
 1.  Дообучение модели VisualTransformer классификации спутниковых снимков:
     https://github.com/toraevai/visual_transformer_for_space_image_recognition  
-    **Стек**: Python, pandas, torch, numpy, torchvision  
-
+    **Стек**: Python, pandas, torch, numpy, torchvision
+1.  Квиз с вопросами по Python в телеграме:  
+    https://github.com/toraevai/telegram_quiz_bot  
+    **Стек**: aiogram, aiosqlite, asyncio  
+   
 tg: @toraevai
